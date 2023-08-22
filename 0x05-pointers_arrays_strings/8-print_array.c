@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print-array - afunction that prints
+ * print_array - afunction that prints
  * @a: param
  * @n: number
  * Return: a and n
